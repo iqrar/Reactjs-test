@@ -1,0 +1,30 @@
+{
+  "name": "frontend_inspera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jarle Presttun",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-react": "^3.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-shell": "^0.4.3",
+    "jest-cli": "^0.4.1",
+    "jspm": "^0.15.5",
+    "run-sequence": "^1.1.2"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "react": "^0.13.3",
+    "react-style": "^0.5.5",
+    "underscore": "^1.8.3"
+  }
+}
