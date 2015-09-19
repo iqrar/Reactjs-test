@@ -6,7 +6,7 @@ var navBarJSON = [
         
         'url': 'https://ia.inspera.no',
         'newTab': true,
-        'title': 'Inspera Assessment'
+        'title': 'Assessment'
         
     },
     {
